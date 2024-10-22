@@ -61,7 +61,7 @@ font-family: "Bai Jamjuree", sans-serif;
     font-weight: 700;
 }
 
-.cartao:hover .cartao__conteudo {
+.cartao.active .cartao__conteudo {
     transform: rotateY(180deg);
 }
 
