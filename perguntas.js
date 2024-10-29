@@ -20,6 +20,6 @@ criaCartao(
 
 criaCartao(
     'O que é, o que é',
-    'dá muitas voltas e não sai do lugar',
+    'Dá muitas voltas e não sai do lugar',
     'O relógio'
 )
